@@ -139,18 +139,6 @@ The application is optimized for deployment on Vercel:
 2. Configure build settings (automatic detection)
 3. Deploy with zero configuration
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Run tests and linting
-5. Submit a pull request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## 🙏 Acknowledgments
 
 - ShadCN UI for beautiful, accessible components
